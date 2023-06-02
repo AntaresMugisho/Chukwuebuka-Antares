@@ -1,0 +1,38 @@
+#nav-bar{
+    float: right;
+    padding: 20px;
+    font-family: sans-serif;
+
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+    font-size: small;
+}
+#title{
+    text-align: center;
+    padding: 30px;
+    font-family: sans-serif;
+}
+#submit{
+    background-color: yellow;
+    font-family: sans-serif;
+    font-weight: 900;
+    max-width: 300px;
+    margin: auto;
+    
+
+}
+#email{
+  
+    
+    max-width:400px ;
+    margin:0 auto 5px;
+    min-width: 250px;
+    padding: 3px;
+}
+#form{
+    display:flex;
+    flex-direction: column;
+}
